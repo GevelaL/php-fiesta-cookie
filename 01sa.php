@@ -10,7 +10,7 @@ $_macahipay = array(
         array("id" => 8,"species" => "Wartortle","type1" => "Water","type2" => "N/A","ability" => 'Torrent',"hp" => 59,"attack" => 63,"defense" => 80),
         array("id" => 9,"species" => "Blastoise","type1" => "Water","type2" => "N/A","ability" => 'Torrent',"hp" => 79,"attack" => 83,"defense" => 100),
         array("id" => 10,"species" => "Caterpie","type1" => "Bug","type2" => "N/A","ability" => 'Shield Dust',"hp" => 50,"attack" => 20,"defense" => 55)
-                    );
+);
     
 
 /*
